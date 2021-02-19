@@ -5,10 +5,12 @@ $ python3 test2.py
 
 # CONSOLA
 
-## MODIFICAR LAS ENTRADAS EN EL ARCHIVO 
+## MODIFICAR LAS ENTRADAS EN EL ARCHIVO test2.py
 
 $ # value = '753BC-747BC'
+
 $ # value = '1BC-1AD'
+
 $ value = '2000AD-2012AD'
 
 ## EJECUTAR EL ARCHIVO
