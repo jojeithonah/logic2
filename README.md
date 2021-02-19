@@ -7,8 +7,8 @@ $ python3 test2.py
 
 ## MODIFICAR LAS ENTRADAS EN EL ARCHIVO 
 
-.# value = '753BC-747BC'
-.# value = '1BC-1AD'
+$ # value = '753BC-747BC'
+$ # value = '1BC-1AD'
 $ value = '2000AD-2012AD'
 
 ## EJECUTAR EL ARCHIVO
